@@ -15,7 +15,9 @@ blockquote
 Create block quotations, mark citations to other authors or documents.
 
 
+Italic	
 
+press the Ctrl + I keys.  They are used to emphasize words or phrases within a script. A typeface with the size, weight and style of a certain typeface.
 
 
 
