@@ -14,8 +14,9 @@ blockquote
 
 Create block quotations, mark citations to other authors or documents.
 
+Artificial intelligence.
 
-
+To create personalized suggestion for customers and consumers, an example, on their previous searches and purchases  online.
 
 
 <!--
