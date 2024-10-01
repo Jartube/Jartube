@@ -1,23 +1,37 @@
 ## Hello world 👋
 
-First item
+I am Jair and 
 
- Files that contain specific data information about something or someone.  
- someone.                        
+- 🔭 I’m currently working as Graphic Design and sometimes industrial Design.
 
-code 
-
-In computer science, a series of programming language instructions.                       
+- 🌱 I’m currently learning english but specially my main program Interactive Design.
  
+- 👯 I’m looking to collaborate on Sait like voluntier, but in the next semester.
+  
+- 🤔 I’m looking for help with resources about English to increase it.
+  
+- 💬 Ask me about My family, goals, hobbies, and pets.
+  
+- 📫 How to reach me: 5875794252 / E-mail jairtoroube@gmail.com.
+  
+- 😄 Pronouns: Him
+  
+- ⚡ Fun fact: Why in: Why in Latin America cats have 7 lives, and in North America they have 9 ?  !🙀!
 
-blockquote
 
-Create block quotations, mark citations to other authors or documents.
+I am an active person who likes to learn new technologies. 📲 📸 💻 
 
 
-Italic	
+                
+My goals : ❤️🫶🌟
 
-press the Ctrl + I keys.  They are used to emphasize words or phrases within a script. A typeface with the size, weight and style of a certain typeface.
+I am a dreamer and that is why I dream of having a nice family and starting my own business but I feel that my English is not the best, and that is why I strive to improve it every day.
+
+
+
+My hobbies  ⚽️📸🏀
+
+I love sports especially soccer, basketball, and skateboarding, I also like to draw, paint, sometimes video games attract me but they are not my favorite, apart from that I like to read and listen to podcasts about interesting topics of life, society, and different cultures.
 
 
 
@@ -26,7 +40,7 @@ press the Ctrl + I keys.  They are used to emphasize words or phrases within a s
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
